@@ -1,5 +1,4 @@
 //Taryn Boonpongmanee
-//2.10.22
 //Recursion Problem 2
 
 import acm.program.ConsoleProgram;
