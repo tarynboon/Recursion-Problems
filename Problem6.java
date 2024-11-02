@@ -1,5 +1,4 @@
 //Taryn Boonpongmanee
-//2.13.22
 //Problem 6
 
 import acm.program.ConsoleProgram;
